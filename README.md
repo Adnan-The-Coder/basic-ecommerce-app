@@ -1,9 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Basic E-Commerce Website](https://HiTechCopier.com) Coded By [Adnan](https://www.linkedin.com/in/syedadnanali99/).
 
 ## Getting Started
 
-First, run the development server:
+First, install dependencies :
 
+```bash
+npm install
+# or
+npm i
+```
+
+Then, run development Server :
 ```bash
 npm run dev
 # or
@@ -16,21 +23,27 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## About the Project
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+This project is a basic e-commerce website for **Hi-Tech Copier**, a digital xerox machine sales and services shop. It showcases a clean and modern interface for users to browse and purchase xerox machines and related services.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Technologies Used
 
-## Deploy on Vercel
+- **[Next.js](https://nextjs.org/)**: A popular React framework for building server-rendered applications and static websites.
+- **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for creating custom designs without leaving your HTML.
+- **[Framer Motion](https://www.framer.com/api/motion/)**: A library for animations in React, providing a simple and powerful way to animate components.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Features
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Responsive Design**: The website is designed to be fully responsive, ensuring a smooth experience on both desktop and mobile devices.
+- **Interactive Animations**: Using Framer Motion for smooth transitions and engaging animations.
+- **Modern UI/UX**: Tailwind CSS helps in building a visually appealing and user-friendly interface.
+
+## Learn More About the Technologies
+
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Framer Motion Documentation](https://www.framer.com/api/motion/)
